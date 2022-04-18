@@ -1,3 +1,3 @@
 ## 1st_project
 
-![baseball_s](https://user-images.githubusercontent.com/90809459/163814216-07cfd69a-14b1-409b-aee6-c7b713dece0a.png)
+![baseball](https://user-images.githubusercontent.com/90809459/163830995-c8681b69-9ff2-4a88-8d00-b7c2af77868e.gif)
